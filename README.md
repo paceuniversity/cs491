@@ -8,7 +8,9 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
-## 2021 projects 
+## 2021 projects (PLACEHOLDER)
+
+**Teams will be invited on 9/30, once teams are formed**
 
 * [Team 1](https://github.com/paceuniversity/cs389f2021team1)
 * [Team 2](https://github.com/paceuniversity/cs389f2021team2)
