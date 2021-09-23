@@ -8,7 +8,7 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
-## 2021 projects (NOT CREATED YET)
+## 2021 projects 
 
 * [Team 1](https://github.com/paceuniversity/cs389f2021team1)
 * [Team 2](https://github.com/paceuniversity/cs389f2021team2)
@@ -17,6 +17,7 @@
 * [Team 5](https://github.com/paceuniversity/cs389f2021team5)
 * [Team 6](https://github.com/paceuniversity/cs389f2021team6)
 * [Team 7](https://github.com/paceuniversity/cs389s2021team7)
+* [Team 8](https://github.com/paceuniversity/cs389s2021team8)
 
 ## Rubrics
 
