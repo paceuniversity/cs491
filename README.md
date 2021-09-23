@@ -4,6 +4,8 @@
 
 [Google Calendar](https://calendar.google.com/calendar/u/0?cid=aXZoMmU3NjhzMjRkdGlxZWYwcXZvbzhxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+*Please note that the calendar can change!*
+
 <!---
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
