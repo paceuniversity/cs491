@@ -8,14 +8,14 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
-## 2021 projects
+## 2021 projects (NOT CREATED YET)
 
-* [Team 1](https://github.com/paceuniversity/cs389s2021team1)
-* [Team 2](https://github.com/paceuniversity/cs389s2021team2)
-* [Team 3](https://github.com/paceuniversity/cs389s2021team3)
-* [Team 4](https://github.com/paceuniversity/cs389s2021team4)
-* [Team 5](https://github.com/paceuniversity/cs389s2021team5)
-* [Team 6](https://github.com/paceuniversity/cs389s2021team6)
+* [Team 1](https://github.com/paceuniversity/cs389f2021team1)
+* [Team 2](https://github.com/paceuniversity/cs389f2021team2)
+* [Team 3](https://github.com/paceuniversity/cs389f2021team3)
+* [Team 4](https://github.com/paceuniversity/cs389f2021team4)
+* [Team 5](https://github.com/paceuniversity/cs389f2021team5)
+* [Team 6](https://github.com/paceuniversity/cs389f2021team6)
 * [Team 7](https://github.com/paceuniversity/cs389s2021team7)
 
 ## Rubrics
@@ -32,20 +32,18 @@
 
 ## Templates
 
-(The asterix * near a template helps you keep track of where we are and what is due)
-
 ***Idea proposal***
-* [Idea proposal](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)*
+* [Idea proposal](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)
 
 ***Documentation in README.md***
-* [Wiki content -> README.md skeleton](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)*
-* [Wiki skeleton -> README.md skeleton](https://github.com/paceuniversity/cs3892017/wiki/Team-Wiki-Skeleton)*
+* [Wiki content -> README.md skeleton](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)
+* [Wiki skeleton -> README.md skeleton](https://github.com/paceuniversity/cs3892017/wiki/Team-Wiki-Skeleton)
 * [GitHub organization](http://csis.pace.edu/~scharff/gsd2016/GitHubOrganization2016.docx) Note: The wiki is replaced by README.md and Graph by Insights
 
 ***Requirements***
-* [Backlog template/sample](https://docs.google.com/spreadsheets/d/1MyKivK6PZ1WnFGbhxCuuVY6fNfTHdzvYbMDZMuMH5GY/edit?usp=sharing)*
-* [Requirements discovery](https://docs.google.com/document/d/1h2PEp1vj6_hAhrVrrfT9Tyqvng0rzk7ushrUGxn5Zp8/edit?usp=sharing)*
-* [Persona](http://csis.pace.edu/~scharff/cs3892019/persona.pdf)*
+* [Backlog template/sample](https://docs.google.com/spreadsheets/d/1MyKivK6PZ1WnFGbhxCuuVY6fNfTHdzvYbMDZMuMH5GY/edit?usp=sharing)
+* [Requirements discovery](https://docs.google.com/document/d/1h2PEp1vj6_hAhrVrrfT9Tyqvng0rzk7ushrUGxn5Zp8/edit?usp=sharing)
+* [Persona](http://csis.pace.edu/~scharff/cs3892019/persona.pdf)
 
 ***Design***
 * [Architecture](http://csis.pace.edu/~scharff/cs3892018/architecture2018.docx)
@@ -63,6 +61,7 @@
 
 ## Projects of previous years
 
+* [Spring 2021](https://github.com/paceuniversity/cs3892021/wiki)
 * [2018](https://github.com/paceuniversity/cs3892018/wiki)
 * [2017](https://github.com/paceuniversity/cs3892017/wiki)
 * [2016](https://github.com/paceuniversity/cs3892016/wiki)
