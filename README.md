@@ -1,5 +1,13 @@
 # Welcome to CS389 Spring 2021
 
+## Topic
+
+![sdg](https://github.com/paceuniversity/cs389fall2021/sdg.png)
+ 
+* https://sdgs.un.org/goals
+* https://globalgoalsweek.org/ 
+
+
 ## Milestones of the project
 
 [Google Calendar](https://calendar.google.com/calendar/u/0?cid=aXZoMmU3NjhzMjRkdGlxZWYwcXZvbzhxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
