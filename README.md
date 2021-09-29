@@ -2,7 +2,7 @@
 
 ## Topic
 
-![sdg](https://github.com/paceuniversity/cs389fall2021/sdg.png)
+![sdg](https://github.com/paceuniversity/cs389fall2021/blob/main/sdg.png)
  
 * https://sdgs.un.org/goals
 * https://globalgoalsweek.org/ 
