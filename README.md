@@ -6,6 +6,9 @@
  
 * https://sdgs.un.org/goals
 * https://globalgoalsweek.org/ 
+* University competitions on the SDG
+  * https://solve.mit.edu/
+  * https://bigideascontest.org/
 
 
 ## Milestones of the project
