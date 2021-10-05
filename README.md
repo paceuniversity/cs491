@@ -6,9 +6,10 @@
  
 * https://sdgs.un.org/goals
 * https://globalgoalsweek.org/ 
-* University competitions on the SDG
+* Competitions on the SDG
   * https://solve.mit.edu/
   * https://bigideascontest.org/
+  * https://fttalent.ft.com/ftxseedstars
 
 
 ## Milestones of the project
