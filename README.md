@@ -24,7 +24,7 @@
 
 ## 2021 projects 
 
-**Teams will be invited on 9/30, once teams are formed**
+**All students are now part of their teams - 10/5**
 
 * [Team 1](https://github.com/paceuniversity/cs389f2021team1)
 * [Team 2](https://github.com/paceuniversity/cs389f2021team2)
