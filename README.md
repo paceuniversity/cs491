@@ -34,7 +34,7 @@
 * [Team 6](https://github.com/paceuniversity/cs389f2021team6)
 * [Team 7](https://github.com/paceuniversity/cs389f2021team7)
 * [Team 8](https://github.com/paceuniversity/cs389f2021team8)
-* [Team 9](https://github.com/paceuniversity/cs389f2021team9)
+* [Team 9](https://github.com/paceuniversity/cs389f2021team9) - Pace Map v1.0
 
 ## Rubrics
 
