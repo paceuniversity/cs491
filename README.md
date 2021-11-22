@@ -26,14 +26,14 @@
 
 **All students are now part of their teams - 10/5**
 
-* [Team 1](https://github.com/paceuniversity/cs389f2021team1)
-* [Team 2](https://github.com/paceuniversity/cs389f2021team2)
-* [Team 3](https://github.com/paceuniversity/cs389f2021team3)
-* [Team 4](https://github.com/paceuniversity/cs389f2021team4)
-* [Team 5](https://github.com/paceuniversity/cs389f2021team5)
-* [Team 6](https://github.com/paceuniversity/cs389f2021team6)
-* [Team 7](https://github.com/paceuniversity/cs389f2021team7)
-* [Team 8](https://github.com/paceuniversity/cs389f2021team8)
+* [Team 1](https://github.com/paceuniversity/cs389f2021team1) - Corporate
+* [Team 2](https://github.com/paceuniversity/cs389f2021team2) - Pace Eats
+* [Team 3](https://github.com/paceuniversity/cs389f2021team3) - Exsecutum
+* [Team 4](https://github.com/paceuniversity/cs389f2021team4) - NeedToFeed
+* [Team 5](https://github.com/paceuniversity/cs389f2021team5) - Covid-OneToo
+* [Team 6](https://github.com/paceuniversity/cs389f2021team6) - OneHome
+* [Team 7](https://github.com/paceuniversity/cs389f2021team7) - Carbon Footprint
+* [Team 8](https://github.com/paceuniversity/cs389f2021team8) - My Teacher
 * [Team 9](https://github.com/paceuniversity/cs389f2021team9) - Pace Map v1.0
 
 ## Rubrics
