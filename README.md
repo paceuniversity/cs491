@@ -24,8 +24,6 @@
 
 ## 2021 projects 
 
-**All students are now part of their teams - 10/5**
-
 * [Team 1](https://github.com/paceuniversity/cs389f2021team1) - Corporate
 * [Team 2](https://github.com/paceuniversity/cs389f2021team2) - Pace Eats
 * [Team 3](https://github.com/paceuniversity/cs389f2021team3) - Exsecutum
