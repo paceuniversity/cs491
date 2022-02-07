@@ -22,6 +22,21 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
+## Spring 2022 projects 
+
+**NOT MORE THAN 10 TEAMS**
+
+* [Team 1](https://github.com/paceuniversity/cs389s2021team1) 
+* [Team 2](https://github.com/paceuniversity/cs389s2021team2) 
+* [Team 3](https://github.com/paceuniversity/cs389s2021team3) 
+* [Team 4](https://github.com/paceuniversity/cs389s2021team4) 
+* [Team 5](https://github.com/paceuniversity/cs389s2021team5) 
+* [Team 6](https://github.com/paceuniversity/cs389s2021team6) 
+* [Team 7](https://github.com/paceuniversity/cs389s2021team7) 
+* [Team 8](https://github.com/paceuniversity/cs389s2021team8) 
+* [Team 9](https://github.com/paceuniversity/cs389s2021team9) 
+* [Team 10](https://github.com/paceuniversity/cs389s2021team10)
+
 ## Fall 2021 projects 
 
 * [Team 1](https://github.com/paceuniversity/cs389f2021team1) - Corporate
