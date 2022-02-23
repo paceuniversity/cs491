@@ -24,8 +24,6 @@
 
 ## Spring 2022 projects 
 
-**NOT MORE THAN 10 TEAMS**
-
 * [Team 1](https://github.com/paceuniversity/cs389s2021team1) 
 * [Team 2](https://github.com/paceuniversity/cs389s2021team2) 
 * [Team 3](https://github.com/paceuniversity/cs389s2021team3) 
@@ -36,6 +34,7 @@
 * [Team 8](https://github.com/paceuniversity/cs389s2021team8) 
 * [Team 9](https://github.com/paceuniversity/cs389s2021team9) 
 * [Team 10](https://github.com/paceuniversity/cs389s2021team10)
+* [Team 11](https://github.com/paceuniversity/cs389s2021team11)
 
 ## Fall 2021 projects 
 
