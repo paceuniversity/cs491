@@ -10,6 +10,8 @@
   * https://solve.mit.edu/
   * https://bigideascontest.org/
   * https://fttalent.ft.com/ftxseedstars
+* Startup course
+  * https://www8.gsb.columbia.edu/courses/mba/2022/spring/b8527-001
 
 
 ## Milestones of the project
