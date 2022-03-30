@@ -2,6 +2,8 @@
 
 5 minutes per team
 
+The artifacts of the demo and retro are posted in the README.md
+*	
 ## Demo of the app
 
 *	Install Vysor
@@ -14,7 +16,6 @@
 
 ## Retrospective
 
-*	Notes of the retro are in the README.md
 *	Sprint goal
 *	Number of stories planned versus implemented
 *	Number of points planned versus implemented
