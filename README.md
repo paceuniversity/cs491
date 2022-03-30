@@ -84,7 +84,7 @@
 ***Process***
 * [Sprint planning](http://csis.pace.edu/~scharff/gsd2016/SprintPlanning2016.docx)
 * [Scrum template](http://csis.pace.edu/~scharff/gsd2016/ScrumTemplate2016.docx)
-* [Demo & retrospective template](http://csis.pace.edu/~scharff/gsd2016/Demo%20and%20Retrospective%20Template2016.docx)
+* [Demo & retrospective template](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/demoretro.md)
 
 ***Presentations and posters***
 * [Presentation outline and Poster - **2021**](http://csis.pace.edu/~scharff/cs3892019/presentationoutline2021.docx)
