@@ -82,8 +82,8 @@
 * UI/UX (no template)
 
 ***Process***
-* [Sprint planning](http://csis.pace.edu/~scharff/gsd2016/SprintPlanning2016.docx)
-* [Scrum template](http://csis.pace.edu/~scharff/gsd2016/ScrumTemplate2016.docx)
+* [Sprint planning](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/sprintplanning.md)
+* [Scrum template](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/scrum.md)
 * [Demo & retrospective template](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/demoretro.md)
 
 ***Presentations and posters***
