@@ -26,17 +26,17 @@
 
 ## Spring 2022 projects 
 
-* [Team 1](https://github.com/paceuniversity/cs389s2022team1) 
-* [Team 2](https://github.com/paceuniversity/cs389s2022team2) 
-* [Team 3](https://github.com/paceuniversity/cs389s2022team3) 
-* [Team 4](https://github.com/paceuniversity/cs389s2022team4) 
-* [Team 5](https://github.com/paceuniversity/cs389s2022team5) 
-* [Team 6](https://github.com/paceuniversity/cs389s2022team6) 
-* [Team 7](https://github.com/paceuniversity/cs389s2022team7) 
-* [Team 8](https://github.com/paceuniversity/cs389s2022team8) 
-* [Team 9](https://github.com/paceuniversity/cs389s2022team9) 
-* [Team 10](https://github.com/paceuniversity/cs389s2022team10)
-* [Team 11](https://github.com/paceuniversity/cs389s2022team11)
+* [Team 1](https://github.com/paceuniversity/cs389s2022team1) - 
+* [Team 2](https://github.com/paceuniversity/cs389s2022team2) - Tech Café
+* [Team 3](https://github.com/paceuniversity/cs389s2022team3) - Lumbar
+* [Team 4](https://github.com/paceuniversity/cs389s2022team4) - PlayTrade
+* [Team 5](https://github.com/paceuniversity/cs389s2022team5) - CarryOn
+* [Team 6](https://github.com/paceuniversity/cs389s2022team6) - Pacial
+* [Team 7](https://github.com/paceuniversity/cs389s2022team7) - Group Up
+* [Team 8](https://github.com/paceuniversity/cs389s2022team8) - PacePost
+* [Team 9](https://github.com/paceuniversity/cs389s2022team9) - Honeydew
+* [Team 10](https://github.com/paceuniversity/cs389s2022team10) - GarSort
+* [Team 11](https://github.com/paceuniversity/cs389s2022team11) - RecycleFinder
 
 ## Fall 2021 projects 
 
