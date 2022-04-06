@@ -26,7 +26,7 @@
 
 ## Spring 2022 projects 
 
-* [Team 1](https://github.com/paceuniversity/cs389s2022team1) - 
+* [Team 1](https://github.com/paceuniversity/cs389s2022team1) - FoodFluence
 * [Team 2](https://github.com/paceuniversity/cs389s2022team2) - Tech Café
 * [Team 3](https://github.com/paceuniversity/cs389s2022team3) - Lumbar
 * [Team 4](https://github.com/paceuniversity/cs389s2022team4) - PlayTrade
