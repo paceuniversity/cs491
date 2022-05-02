@@ -70,13 +70,13 @@
 
 * The poster should contain:
 
-** Name of app
-**	Team members
-** Logo
-**	Screenshots
-**	Bit.ly to download your app (direct link to the apk file)
-**	QR code to download your app (direct link to the apk file)
-**	Check the apk file as it can be corrupted!
+* Name of app
+* Team members
+* Logo
+*	Screenshots
+*	Bit.ly to download your app (direct link to the apk file)
+*	QR code to download your app (direct link to the apk file)
+*	Check the apk file as it can be corrupted!
 
 ## Sample posters
 
