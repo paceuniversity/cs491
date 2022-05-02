@@ -29,13 +29,13 @@
 * Technologies, Tools and APIs (Android Studio, Photoshop, GitHub, Git, Slack, databases….). You can separate development, design, communication, project management etc. tools. Use a table maybe. Some of you used many tools, we need to know!
 
 * Stats. 
-**	# of communications (emails, chats, face-to-face meetings, SMS, Facebook, Group chat, Slack stats, Discord etc.) What was the main communication channel? Highlight it! Maybe you can access Slack stats.
-**	# User Stories (total, per sprint, planned and implemented, US nonfunctional and functional)
-**  # scrums
-**	# hours worked (per member and per team)
-**	# classes and # lines of Java code
-**	Some infos on the contributions of each of the team members
-**	Other stats
+*	# of communications (emails, chats, face-to-face meetings, SMS, Facebook, Group chat, Slack stats, Discord etc.) What was the main communication channel? Highlight it! Maybe you can access Slack stats.
+*	# User Stories (total, per sprint, planned and implemented, US nonfunctional and functional)
+* # scrums
+* # hours worked (per member and per team)
+* # classes and # lines of Java code
+* Some infos on the contributions of each of the team members
+* Other stats
 [Only talk about 1-2 important metrics during the presentation]
 
 * Status of your App & Deployment (What is next?)
