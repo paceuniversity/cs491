@@ -24,6 +24,14 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
+## Fall 2022 projects 
+
+* [Team 1](https://github.com/paceuniversity/cs389f2022team1) 
+* [Team 2](https://github.com/paceuniversity/cs389f2022team2) 
+* [Team 3](https://github.com/paceuniversity/cs389f2022team3) 
+* [Team 4](https://github.com/paceuniversity/cs389f2022team4) 
+* [Team 5](https://github.com/paceuniversity/cs389f2022team5) 
+
 ## Spring 2022 projects 
 
 * [Team 1](https://github.com/paceuniversity/cs389s2022team1) - FoodFluence
