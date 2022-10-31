@@ -5,6 +5,7 @@
 * Number of User Stories you will implement during the Sprint
 * User Stories you will implement during the Sprint
 * Velocity you will implement during the Sprint
+  * H = 7 points, M = 5 points, L = 3 points
 * Label each story of the Product Backlog with the Sprint number label
 * Create a new tab in the Product Backlog spreadsheet with the US and the tasks
 
