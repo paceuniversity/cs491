@@ -37,10 +37,14 @@ In GitHub Project
 * One of the team members creates the Android Studio project and begins to code
 * The code is pushed in the team GitHub repository
 * The other team members clone the repo and make some trivial push to the team GitHub repository
-* Rules of GitHub
-  * You cannot push directly on main
-  * You work exclusively on your own branch (labeled with your firstname)
-  * You merge your branch to the main branch using a pull request
+* Code comments are only in English
+
+## Rules of GitHub
+
+* You cannot push directly on main
+* You work exclusively on your own branch (labeled with your firstname)
+* You merge your branch to the main branch using a pull request
+* Each developer must have at least 10 pushes / sprint
 
 ## Sprint 2 and Sprint 3
 
