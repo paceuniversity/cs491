@@ -13,7 +13,7 @@
 
 ## Presentation
 
-* 9 minutes including the live demo + 2 minutes of questions
+* 12 minutes including the live demo + 2 minutes of questions
 * To be done in Google Presentation
 * The slides below should be there. You can be creative!
 
