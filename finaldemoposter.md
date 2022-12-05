@@ -5,7 +5,7 @@
 *	The presentations should be formal and professionals. Dress and act accordingly. If on Zoom, open you camera (if you can).
 *	You need to consider that nobody knows your project. It is the time for you to present the whole project and to sell it. It is a pitch!
 *	Teams are responsible of testing everything BEFORE the presentations.
-*	Teams will be timed! You will be cut off if you go overtime. 9 minutes maximum including a 2-minute demo (maximum).
+*	Teams will be timed! You will be cut off if you go overtime. 12 minutes maximum including a 2-minute demo (maximum).
 *	Put the link of your apk, presentation, video and poster in the Google Sheet provided. We will retrieve everything from that one-stop place.
 *	Share all your presentation and poster with me as an editor such that I can give you feedback.
 *	Teams are evaluated with the CS 389 rubrics.
