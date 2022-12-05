@@ -27,9 +27,7 @@
 * 3 burndown charts (one for each sprint) and number of US planned and implemented at each sprint in a table. [Only say 1-2 sentences about the charts]
 * GitHub commits and statistics during the project (screenshot). Screenshot of the insights [Only say 1-2 sentences about the use of GitHub]
 * Technologies, Tools and APIs (Android Studio, Photoshop, GitHub, Git, Slack, databases….). You can separate development, design, communication, project management etc. tools. Use a table maybe. Some of you used many tools, we need to know!
-
-* Stats
-*	# of communications (emails, chats, face-to-face meetings, SMS, Facebook, Group chat, Slack stats, Discord etc.) What was the main communication channel? Highlight it! Maybe you can access Slack stats.
+* Stats of communications (emails, chats, face-to-face meetings, SMS, Facebook, Group chat, Slack stats, Discord etc.) What was the main communication channel? Highlight it! Maybe you can access Slack stats.
 *	# User Stories (total, per sprint, planned and implemented, US nonfunctional and functional)
 * # scrums
 * # hours worked (per member and per team)
