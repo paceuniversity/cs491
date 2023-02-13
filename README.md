@@ -31,7 +31,7 @@
 * [Team 3](https://github.com/paceuniversity/cs389s2023team3) 
 * [Team 4](https://github.com/paceuniversity/cs389s2023team4) 
 * [Team 5](https://github.com/paceuniversity/cs389s2023team5) 
-* 
+
 ## Fall 2022 projects 
 
 * [Team 1](https://github.com/paceuniversity/cs389f2022team1) 
