@@ -81,6 +81,7 @@
 ## Templates
 
 ***Idea proposal***
+* [Slides on brainstorming](https://docs.google.com/presentation/d/1nmpJi1l5OkvKkkLAnJQxQDr0D-W-eULXL6HMvA8CM3Q/edit#slide=id.p)
 * [Idea proposal](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)
 
 ***Documentation in README.md***
