@@ -1,6 +1,6 @@
 # Demo and Retrospective Template
 
-5 minutes per team
+8 minutes per team
 
 The artifacts of the demo and retro are posted in the README.md
 *	
