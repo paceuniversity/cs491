@@ -3,10 +3,10 @@
 8 minutes per team
 
 The artifacts of the demo and retro are posted in the README.md
-*	
+
 ## Demo of the app
 
-*	Install Vysor
+*	Install Vysor or similar (if you present from your phone)
 *	Do a live demo
 *	Post documents in the README.md
 *	Icon of the app
