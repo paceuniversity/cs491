@@ -18,8 +18,7 @@ The artifacts of the demo and retro are posted in the README.md
 
 *	Sprint goal
 *	Number of stories planned versus implemented
-*	Number of points planned versus implemented
-*	Planned versus actual velocity
+*	Number of points planned versus implemented (velocity)
 *	Sprint retrospective written summary 
   *	What should the team start doing?
   *	What should the team stop doing?
