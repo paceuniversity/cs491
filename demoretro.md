@@ -20,10 +20,10 @@ The artifacts of the demo and retro are posted in the README.md
 *	Number of stories planned versus implemented
 *	Number of points planned versus implemented (velocity)
 *	Sprint retrospective written summary 
-  **	What should the team start doing?
-  **	What should the team stop doing?
-  **	What should the team continue doing?
-  ** (in terms of process, communications, technology …)
+  *	What should the team continue doing?
+  *	What should the team start doing?
+  *	What should the team stop doing?
+  *	(in terms of process, communications, technology …)
 *	Status of the evolution of the Product Backlog (Did the backlog change????)
 *	Burndown chart for the sprint
 *	Statistics from GitHub (GitHub insights)
