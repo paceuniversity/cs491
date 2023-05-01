@@ -85,8 +85,11 @@
 * [Idea proposal](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)
 
 ***Documentation in README.md***
-* [Wiki content -> README.md skeleton](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)
 * [Wiki skeleton -> README.md skeleton](https://github.com/paceuniversity/cs3892017/wiki/Team-Wiki-Skeleton)
+
+Do not use
+
+* [Wiki content -> README.md skeleton](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)
 * [GitHub organization](http://csis.pace.edu/~scharff/gsd2016/GitHubOrganization2016.docx) Note: The wiki is replaced by README.md and Graph by Insights
 
 ***Requirements***
