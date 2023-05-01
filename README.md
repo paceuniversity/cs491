@@ -1,4 +1,4 @@
-# Welcome to CS389 Fall 2021 / Spring 2022 / Fall 2022
+# Welcome to CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023
 
 ## Topic
 
