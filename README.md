@@ -87,8 +87,8 @@
 ***Documentation in README.md***
 * [Wiki skeleton -> README.md skeleton](https://github.com/paceuniversity/cs3892017/wiki/Team-Wiki-Skeleton)
 
-[]:* [Wiki content -> README.md skeleton](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)
-[]:* [GitHub organization](http://csis.pace.edu/~scharff/gsd2016/GitHubOrganization2016.docx) Note: The wiki is replaced by README.md and Graph by Insights>
+[]: #* [Wiki content -> README.md skeleton](http://csis.pace.edu/~scharff/gsd2016/WikiTemplate2017.docx)
+[]: #* [GitHub organization](http://csis.pace.edu/~scharff/gsd2016/GitHubOrganization2016.docx) Note: The wiki is replaced by README.md and Graph by Insights>
 
 ***Requirements***
 * [Backlog template/sample](https://docs.google.com/spreadsheets/d/1MyKivK6PZ1WnFGbhxCuuVY6fNfTHdzvYbMDZMuMH5GY/edit?usp=sharing)
