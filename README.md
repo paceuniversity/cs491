@@ -26,11 +26,11 @@
 
 ## Fall 2023 projects 
 
-* [Team 1](https://github.com/paceuniversity/cs389f20223team1) 
-* [Team 2](https://github.com/paceuniversity/cs389f20223team2) 
-* [Team 3](https://github.com/paceuniversity/cs389f20223team3) 
-* [Team 4](https://github.com/paceuniversity/cs389f20223team4) 
-* [Team 5](https://github.com/paceuniversity/cs389f20223team5)
+* [Team 1](https://github.com/paceuniversity/cs389f2023team1) 
+* [Team 2](https://github.com/paceuniversity/cs389f2023team2) 
+* [Team 3](https://github.com/paceuniversity/cs389f2023team3) 
+* [Team 4](https://github.com/paceuniversity/cs389f2023team4) 
+* [Team 5](https://github.com/paceuniversity/cs389f2023team5)
   
 ## Spring 2023 projects 
 
