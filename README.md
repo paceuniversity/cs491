@@ -1,4 +1,4 @@
-# Welcome to CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023
+# Welcome to CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023 / Spring 2024
 
 ## Topic
 
@@ -13,7 +13,6 @@
 * Startup course
   * https://www8.gsb.columbia.edu/courses/mba/2022/spring/b8527-001
 
-
 ## Milestones of the project
 
 [Google Calendar](https://calendar.google.com/calendar/u/0?cid=aXZoMmU3NjhzMjRkdGlxZWYwcXZvbzhxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
@@ -24,6 +23,14 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
+## Sprint 2024 projects
+
+* [Team 1](https://github.com/paceuniversity/cs389s2024team1) 
+* [Team 2](https://github.com/paceuniversity/cs389s2024team2) 
+* [Team 3](https://github.com/paceuniversity/cs389s2024team3) 
+* [Team 4](https://github.com/paceuniversity/cs389s2024team4) 
+* [Team 5](https://github.com/paceuniversity/cs389s2024team5)
+  
 ## Fall 2023 projects 
 
 * [Team 1](https://github.com/paceuniversity/cs389f2023team1) 
