@@ -1,4 +1,8 @@
-# Welcome to CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023 / Spring 2024
+# Welcome 
+# CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023
+# CS 491 Spring 2024
+
+In this computer science capstone course, students are developing apps following Scrum and practices of Extreme Programming. They also use Git/GitHub with branches, pull requests and reviews.
 
 ## Topic
 
@@ -13,7 +17,7 @@
 * Startup course
   * https://www8.gsb.columbia.edu/courses/mba/2022/spring/b8527-001
 
-## Milestones of the project
+## Calendar
 
 [Google Calendar](https://calendar.google.com/calendar/u/0?cid=aXZoMmU3NjhzMjRkdGlxZWYwcXZvbzhxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
