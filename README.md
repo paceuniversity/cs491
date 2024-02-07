@@ -25,11 +25,10 @@
 
 ## Sprint 2024 projects
 
-* [Team 1](https://github.com/paceuniversity/cs389s2024team1) 
-* [Team 2](https://github.com/paceuniversity/cs389s2024team2) 
-* [Team 3](https://github.com/paceuniversity/cs389s2024team3) 
-* [Team 4](https://github.com/paceuniversity/cs389s2024team4) 
-* [Team 5](https://github.com/paceuniversity/cs389s2024team5)
+* [Team 1](https://github.com/paceuniversity/team1spring2024) 
+* [Team 2](https://github.com/paceuniversity/team2spring2024) 
+* [Team 3](https://github.com/paceuniversity/team3spring2024) 
+* [Team 4](https://github.com/paceuniversity/team4spring2024) 
   
 ## Fall 2023 projects 
 
@@ -91,7 +90,14 @@
 
 ## Tools
 
-* [Android Studio for Java](https://developer.android.com/studio)
+* **React** (Since Fall 2023)
+  * [React Official Web Site](https://react.dev/)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * [Firebase](https://firebase.google.com/)
+* **Android** (until Spring 2023)
+  * [Android Studio for Java](https://developer.android.com/studio)
+  * [Android](https://developer.android.com/)
+  * [Google Codelabs](https://codelabs.developers.google.com/)
 
 ## Templates
 
@@ -123,6 +129,7 @@
 
 ## Projects of previous years
 
+* [Since Fall 2021](https://github.com/paceuniversity/cs491/)
 * [Spring 2021](https://github.com/paceuniversity/cs3892021/wiki)
 * [2018](https://github.com/paceuniversity/cs3892018/wiki)
 * [2017](https://github.com/paceuniversity/cs3892017/wiki)
@@ -138,4 +145,3 @@
 * [XP Game](http://www.agilebelgium.be/xpgame/)
 * [Scrum Primer](http://www.scrumprimer.org/)
 * [Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/Kindergarten.PDF)
-* [Google Codelabs](https://codelabs.developers.google.com/)
