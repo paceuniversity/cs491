@@ -44,19 +44,19 @@ In this computer science capstone course, students are developing apps following
   
 ## Spring 2023 projects 
 
-* [Team 1](https://github.com/paceuniversity/cs389s2023team1) 
-* [Team 2](https://github.com/paceuniversity/cs389s2023team2) 
-* [Team 3](https://github.com/paceuniversity/cs389s2023team3) 
-* [Team 4](https://github.com/paceuniversity/cs389s2023team4) 
-* [Team 5](https://github.com/paceuniversity/cs389s2023team5) 
+* [Team 1](https://github.com/paceuniversity/cs389s2023team1) - 
+* [Team 2](https://github.com/paceuniversity/cs389s2023team2) - 
+* [Team 3](https://github.com/paceuniversity/cs389s2023team3) - TuneTalk
+* [Team 4](https://github.com/paceuniversity/cs389s2023team4) - 
+* [Team 5](https://github.com/paceuniversity/cs389s2023team5) - 
 
 ## Fall 2022 projects 
 
-* [Team 1](https://github.com/paceuniversity/cs389f2022team1) 
-* [Team 2](https://github.com/paceuniversity/cs389f2022team2) 
-* [Team 3](https://github.com/paceuniversity/cs389f2022team3) 
-* [Team 4](https://github.com/paceuniversity/cs389f2022team4) 
-* [Team 5](https://github.com/paceuniversity/cs389f2022team5) 
+* [Team 1](https://github.com/paceuniversity/cs389f2022team1) - Droplet
+* [Team 2](https://github.com/paceuniversity/cs389f2022team2) - WellnessWatch
+* [Team 3](https://github.com/paceuniversity/cs389f2022team3) - Indexify
+* [Team 4](https://github.com/paceuniversity/cs389f2022team4) - Kirin Recipe
+* [Team 5](https://github.com/paceuniversity/cs389f2022team5) - InstaGive
 
 ## Spring 2022 projects 
 
