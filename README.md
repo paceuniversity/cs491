@@ -29,26 +29,26 @@ In this computer science capstone course, students are developing apps following
 
 ## Sprint 2024 projects
 
-* [Team 1](https://github.com/paceuniversity/team1spring2024) 
-* [Team 2](https://github.com/paceuniversity/team2spring2024) 
-* [Team 3](https://github.com/paceuniversity/team3spring2024) 
-* [Team 4](https://github.com/paceuniversity/team4spring2024) 
+* [Team 1](https://github.com/paceuniversity/team1spring2024) - 
+* [Team 2](https://github.com/paceuniversity/team2spring2024) - 
+* [Team 3](https://github.com/paceuniversity/team3spring2024) - 
+* [Team 4](https://github.com/paceuniversity/team4spring2024) - 
   
 ## Fall 2023 projects 
 
-* [Team 1](https://github.com/paceuniversity/cs389f2023team1) 
-* [Team 2](https://github.com/paceuniversity/cs389f2023team2) - 
+* [Team 1](https://github.com/paceuniversity/cs389f2023team1) - Mood Swing
+* [Team 2](https://github.com/paceuniversity/cs389f2023team2) - Cinematd
 * [Team 3](https://github.com/paceuniversity/cs389f2023team3) - TuneTalk
-* [Team 4](https://github.com/paceuniversity/cs389f2023team4) - 
-* [Team 5](https://github.com/paceuniversity/cs389f2023team5) - 
+* [Team 4](https://github.com/paceuniversity/cs389f2023team4) - FlowSpace
+* [Team 5](https://github.com/paceuniversity/cs389f2023team5) - Buff-Bot
   
 ## Spring 2023 projects 
 
-* [Team 1](https://github.com/paceuniversity/cs389s2023team1) - 
-* [Team 2](https://github.com/paceuniversity/cs389s2023team2) - 
-* [Team 3](https://github.com/paceuniversity/cs389s2023team3) - 
-* [Team 4](https://github.com/paceuniversity/cs389s2023team4) - 
-* [Team 5](https://github.com/paceuniversity/cs389s2023team5) - 
+* [Team 1](https://github.com/paceuniversity/cs389s2023team1) - BuildingBlocks
+* [Team 2](https://github.com/paceuniversity/cs389s2023team2) - AirStrike
+* [Team 3](https://github.com/paceuniversity/cs389s2023team3) - Table of Contents
+* [Team 4](https://github.com/paceuniversity/cs389s2023team4) - Free Edu
+* [Team 5](https://github.com/paceuniversity/cs389s2023team5) - Quench
 
 ## Fall 2022 projects 
 
