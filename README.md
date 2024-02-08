@@ -37,16 +37,16 @@ In this computer science capstone course, students are developing apps following
 ## Fall 2023 projects 
 
 * [Team 1](https://github.com/paceuniversity/cs389f2023team1) 
-* [Team 2](https://github.com/paceuniversity/cs389f2023team2) 
-* [Team 3](https://github.com/paceuniversity/cs389f2023team3) 
-* [Team 4](https://github.com/paceuniversity/cs389f2023team4) 
-* [Team 5](https://github.com/paceuniversity/cs389f2023team5)
+* [Team 2](https://github.com/paceuniversity/cs389f2023team2) - 
+* [Team 3](https://github.com/paceuniversity/cs389f2023team3) - TuneTalk
+* [Team 4](https://github.com/paceuniversity/cs389f2023team4) - 
+* [Team 5](https://github.com/paceuniversity/cs389f2023team5) - 
   
 ## Spring 2023 projects 
 
 * [Team 1](https://github.com/paceuniversity/cs389s2023team1) - 
 * [Team 2](https://github.com/paceuniversity/cs389s2023team2) - 
-* [Team 3](https://github.com/paceuniversity/cs389s2023team3) - TuneTalk
+* [Team 3](https://github.com/paceuniversity/cs389s2023team3) - 
 * [Team 4](https://github.com/paceuniversity/cs389s2023team4) - 
 * [Team 5](https://github.com/paceuniversity/cs389s2023team5) - 
 
