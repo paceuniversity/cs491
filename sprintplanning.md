@@ -4,11 +4,11 @@
 
 Publish your Sprint Goal in your README.md
 
-* Number of User Stories you will implement during the Sprint
 * User Stories you will implement during the Sprint (number + description)
 * Velocity you will implement during the Sprint
   * Size H = 7 points, M = 5 points, L = 3 points
   * Plan for a velocity of 18
+* Number of User Stories you will implement during the Sprint
 
 ## Create the Sprint Backlog
 
@@ -23,19 +23,20 @@ In the Spreadsheet
 *	Assign each task to a team member
 *	Estimate the amount of time for each task
 *	Every student should plan for 16 hours of work minimum for a sprint
-
+* Some of the tasks can be done using Pair Programming
+  
 ## GitHub Project
 
-In GitHub Project
+In **GitHub Project**
 
 * You have access to a Kanban board
 * Create the US and tasks in the kanban board (as To does)
 * Each of the Kanban US and tasks should be converted to issues
-* Label the issues with the sprint number, US and task
+* Label the issues with the sprint number and the US they correspond to
 
 ## Sprint 1 code 
 
-* One of the team members creates the Android Studio project and begins to code
+* One of the team members creates the React/Android Studio project and begins to code
 * The code is pushed in the team GitHub repository
 * The other team members clone the repo and make some trivial push to the team GitHub repository
 * Code comments are only in English
