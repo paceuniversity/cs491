@@ -7,7 +7,8 @@ Publish your Sprint Goal in your README.md
 * Number of User Stories you will implement during the Sprint
 * User Stories you will implement during the Sprint (number + description)
 * Velocity you will implement during the Sprint
-  * H = 7 points, M = 5 points, L = 3 points
+  * Size H = 7 points, M = 5 points, L = 3 points
+  * Plan for a velocity of 18
 
 ## Create the Sprint Backlog
 
