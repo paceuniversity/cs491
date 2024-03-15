@@ -30,7 +30,7 @@ In this computer science capstone course, students are developing apps following
 ## Sprint 2024 projects
 
 * [Team 1](https://github.com/paceuniversity/team1spring2024) - Cinemood
-* [Team 2](https://github.com/paceuniversity/team2spring2024) - 
+* [Team 2](https://github.com/paceuniversity/team2spring2024) - Kitchen Wizard
 * [Team 3](https://github.com/paceuniversity/team3spring2024) - MoonFlo
 * [Team 4](https://github.com/paceuniversity/team4spring2024) - ItCounts
   
