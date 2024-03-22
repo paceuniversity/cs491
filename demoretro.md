@@ -2,7 +2,9 @@
 
 8 minutes per team
 
-The artifacts of the demo and retro are posted in the README.md
+The artifacts of the demo and retro are posted on GitHub in the README.md
+
+Prepare a Google Docs with all the information of the demo/retro.
 
 ## Demo of the app
 
