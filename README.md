@@ -27,6 +27,13 @@ In this computer science capstone course, students are developing apps following
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
+## Fall 2024 projects
+
+* [Team 1](https://github.com/paceuniversity/cs491fall2024team1) 
+* [Team 2](https://github.com/paceuniversity/cs491fall2024team2) 
+* [Team 3](https://github.com/paceuniversity/cs491fall2024team3)
+* [Team 4](https://github.com/paceuniversity/cs491fall2024team4) 
+* 
 ## Sprint 2024 projects
 
 * [Team 1](https://github.com/paceuniversity/team1spring2024) - Cinemood
