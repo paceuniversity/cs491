@@ -32,7 +32,7 @@ In this computer science capstone course, students are developing apps following
 * [Team 1 - SecureGrid](https://github.com/paceuniversity/cs491fall2024team1) 
 * [Team 2 - PBS Tech for Seniors](https://github.com/paceuniversity/cs491fall2024team2) 
 * [Team 3 - SorTry](https://github.com/paceuniversity/cs491fall2024team3)
-* [Team 4 - TBD](https://github.com/paceuniversity/cs491fall2024team4)
+* [Team 4 - Setter Social](https://github.com/paceuniversity/cs491fall2024team4)
 * [Team 5 - Grass Is Greener](https://github.com/paceuniversity/cs491fall2024team5) 
   
 ## Sprint 2024 projects
