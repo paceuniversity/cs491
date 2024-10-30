@@ -1,4 +1,4 @@
-# Demo and Retrospective Template
+# Demonstration and Retrospective Template
 
 8 minutes per team
 
@@ -14,7 +14,7 @@ Prepare a Google Docs or GitHub file with all the information of the demo/retro.
 *	Video demo of the application (YouTube or Google Drive link)
 *	Code available in GitHub
 
-## Retrospective
+## Retro
 
 *	Sprint goal
 *	Number of stories planned versus implemented
