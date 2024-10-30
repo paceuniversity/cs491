@@ -6,7 +6,7 @@ The artifacts of the demo and retro are posted on GitHub in the README.md
 
 Prepare a Google Docs or GitHub file with all the information of the demo/retro.
 
-## Demo of the app
+## Demo
 
 *	Do a live demo
 *	Post documents in the README.md
@@ -27,4 +27,5 @@ Prepare a Google Docs or GitHub file with all the information of the demo/retro.
 *	Status of the evolution of the Product Backlog (Did the backlog change????)
 *	Burndown chart for the sprint
 *	Statistics from GitHub (GitHub Insights)
+      * Number of pushes / merges per team members 
 
