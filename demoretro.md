@@ -23,7 +23,7 @@ Prepare a Google Docs or GitHub file with all the information of the demo/retro.
       * What should the team continue doing?
       * What should the team start doing?
       * What should the team stop doing?
-    **	(in terms of process, communications, technology, team dynamics …)
+      * (in terms of process, communications, technology, team dynamics …)
 *	Status of the evolution of the Product Backlog (Did the backlog change????)
 *	Burndown chart for the sprint
 *	Statistics from GitHub (GitHub Insights)
