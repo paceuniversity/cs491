@@ -4,7 +4,7 @@
 
 The artifacts of the demo and retro are posted on GitHub in the README.md
 
-Prepare a Google Docs with all the information of the demo/retro.
+Prepare a Google Docs or GitHub file with all the information of the demo/retro.
 
 ## Demo of the app
 
