@@ -21,7 +21,7 @@
 
 * Title slide: Name of the app and team (with pictures) / GitHub link
 * Motivation (Why this app? Problem targeted/ Motivation? Market Analysis? Potential? Story Telling…)
-* Target Users (Who is this app for? What is the environment of the users? Persona?)
+* Target Users (Who is this app for? What is the environment of the users? Persona(s)?)
 * Main features of the app (Main US) (with corresponding screenshots)
 * Process (Description of the process followed? From the ideation phase to the delivery phase? What worked? What didn’t work? What could be improved? What did you learn about agile and scrum? How does the process you follow permits to improve the quality of the product you delivered? Would it have been possible to achieve what you achieved without process?). You may use a timeline.
 * 3 burndown charts (one for each sprint) and number of US planned and implemented at each sprint in a table. Use one slide. [Only say 1-2 sentences about the charts]
