@@ -27,6 +27,15 @@ In this computer science capstone course, students are developing apps following
 <iframe src="https://calendar.google.com/calendar/embed?src=ivh2e768s24dtiqef0qvoo8qr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 -->
 
+## Spring 2025 projects
+
+* [Team 1](https://github.com/paceuniversity/cs491s2025team1)
+* [Team 2](https://github.com/paceuniversity/cs491s2025team2)
+* [Team 3](https://github.com/paceuniversity/cs491s2025team3)
+* [Team 4](https://github.com/paceuniversity/cs491s2025team4)
+* [Team 5](https://github.com/paceuniversity/cs491s2025team5)
+* [Team 6](https://github.com/paceuniversity/cs491s2025team6)
+
 ## Fall 2024 projects
 
 * [Team 1 - SecureGrid](https://github.com/paceuniversity/cs491fall2024team1) 
