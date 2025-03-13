@@ -29,12 +29,12 @@ In this computer science capstone course, students are developing apps following
 
 ## Spring 2025 projects
 
-* [Team 1](https://github.com/paceuniversity/cs491s2025team1)
-* [Team 2](https://github.com/paceuniversity/cs491s2025team2)
-* [Team 3](https://github.com/paceuniversity/cs491s2025team3)
-* [Team 4](https://github.com/paceuniversity/cs491s2025team4)
-* [Team 5](https://github.com/paceuniversity/cs491s2025team5)
-* [Team 6](https://github.com/paceuniversity/cs491s2025team6)
+* [Team 1 - Viridi](https://github.com/paceuniversity/cs491s2025team1)
+* [Team 2 - Herbarium](https://github.com/paceuniversity/cs491s2025team2)
+* [Team 3 - BrightPath](https://github.com/paceuniversity/cs491s2025team3)
+* [Team 4 - Gig Hop](https://github.com/paceuniversity/cs491s2025team4)
+* [Team 5 - EcoLocation](https://github.com/paceuniversity/cs491s2025team5)
+* [Team 6 - PlaySync](https://github.com/paceuniversity/cs491s2025team6)
 
 ## Fall 2024 projects
 
