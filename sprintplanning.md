@@ -2,11 +2,11 @@
 
 ## Video
 
-(Video)[https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c4f662-d163-4800-b707-b2aa011d4ef8&edit=true]
+[Video](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c4f662-d163-4800-b707-b2aa011d4ef8&edit=true)
 
 ## Slides
 
-(Slides)[https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/sprintplanning.md]
+[Slides](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/sprintplanning.md)
 
 ## What is your Sprint Goal?
 
