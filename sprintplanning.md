@@ -1,5 +1,13 @@
 # Sprint Planning
 
+## Video
+
+(Video)[https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c4f662-d163-4800-b707-b2aa011d4ef8&edit=true]
+
+## Slides
+
+(Slides)[https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/sprintplanning.md]
+
 ## What is your Sprint Goal?
 
 Publish your Sprint Goal in your README.md
@@ -7,7 +15,7 @@ Publish your Sprint Goal in your README.md
 * User Stories you will implement during the Sprint (number + description)
 * Velocity you will implement during the Sprint
   * Size H = 7 points, M = 5 points, L = 3 points
-  * Plan for a velocity of 18
+  * Plan for a velocity of 21
 * Number of User Stories you will implement during the Sprint
 
 ## Create the Sprint Backlog
