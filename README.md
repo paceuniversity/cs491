@@ -144,7 +144,7 @@ In this computer science capstone course, students are developing apps following
 * [Demo & retrospective template](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/demoretro.md)
 
 ***Presentations and posters***
-* [Presentation outline and Poster - **2023**](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/finaldemoposter.md)
+* [Presentation outline and Poster - **2025**](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/finaldemoposter.md)
 * [Presentation outline and Poster - before 2019](http://csis.pace.edu/~scharff/cs3892018/presentationoutline2108.docx)
 * [Reflection on the software process](http://csis.pace.edu/~scharff/cs3892018/softwarereflection2018.docx)
 
