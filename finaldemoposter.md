@@ -1,4 +1,4 @@
-# Deliverables: Final Presentation + Video + App + Poster
+# Deliverables: App + Code + Final Presentation + Video + Poster
 
 ## Generalities
 
