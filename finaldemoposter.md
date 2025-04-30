@@ -73,7 +73,7 @@
   
 ## Sample poster
 
-![https://drive.google.com/file/d/1_wRwwORTi7GTRaJIRL5hPuR2IbdcioS9/view?usp=sharing](Sample poster)
+(https://drive.google.com/file/d/1_wRwwORTi7GTRaJIRL5hPuR2IbdcioS9/view?usp=sharing)[Sample poster]
 
 ## Video
 
