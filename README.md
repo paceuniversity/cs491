@@ -59,6 +59,7 @@ In this software engineering capstone course, students are developing web apps f
 * [Backlog template/sample](https://docs.google.com/spreadsheets/d/1MyKivK6PZ1WnFGbhxCuuVY6fNfTHdzvYbMDZMuMH5GY/edit?usp=sharing)
 * [Requirements discovery](https://docs.google.com/document/d/1h2PEp1vj6_hAhrVrrfT9Tyqvng0rzk7ushrUGxn5Zp8/edit?usp=sharing)
 * [Persona](http://csis.pace.edu/~scharff/cs3892019/persona.pdf)
+* [Requirements validation](https://docs.google.com/document/d/1J0c5z7TX9NDBynCuEvAs-2sks99HkbXV/edit?usp=sharing&ouid=117510229771836964953&rtpof=true&sd=true)
 
 ***Design***
 * [Architecture](http://csis.pace.edu/~scharff/cs3892018/architecture2018.docx)
@@ -86,6 +87,15 @@ In this software engineering capstone course, students are developing web apps f
 * [2012](http://atlantis.seidenberg.pace.edu/wiki/gsd2012) (Video of [Recycletron](http://youtu.be/j7mAvdM-ph0))
 * [2011](http://atlantis.seidenberg.pace.edu/wiki/gsd2011)
 
+## Fall 2025 projects
+
+* [Team 1 - ](https://github.com/paceuniversity/cs491fall2025team1)
+* [Team 2 - ](https://github.com/paceuniversity/cs491fall2025team2)
+* [Team 3 - ](https://github.com/paceuniversity/cs491fall2025team3)
+* [Team 4 - ](https://github.com/paceuniversity/cs491fall2025team4)
+* [Team 5 - ](https://github.com/paceuniversity/cs491fall2025team5)
+* [Team 6 - ](https://github.com/paceuniversity/cs491fall2025team6)
+  
 ## Spring 2025 projects
 
 * [Team 1 - Viridi](https://github.com/paceuniversity/cs491s2025team1)
