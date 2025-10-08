@@ -1,10 +1,13 @@
 # Welcome 
-# CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023
-# CS 491 Spring 2024 / Fall 2024 / Spring 2025 / Fall 2025
+# CS 389/491 Software Engineering
+# Fall 2021 to Fall 2025
 
-In this software engineering capstone course, students are developing web apps following Scrum and practices of Extreme Programming. They also use Git/GitHub with branches, pull requests and reviews. 
+## CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023
+## CS 491 Spring 2024 / Fall 2024 / Spring 2025 / Fall 2025
 
-## Topic
+In this software engineering capstone course, students are developing web apps following Scrum and practices of Extreme Programming. They also use Git/GitHub with branches, pull requests and reviews. All projects use a Firebase backend database and integrate an AI component.
+
+## Theme: SDG
 
 ![sdg](https://github.com/paceuniversity/cs389fall2021/blob/main/sdg.png)
  
