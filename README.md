@@ -98,6 +98,8 @@ In this software engineering capstone course, students are developing web apps f
 * [Team 4 - ](https://github.com/paceuniversity/cs491fall2025team4)
 * [Team 5 - ](https://github.com/paceuniversity/cs491fall2025team5)
 * [Team 6 - ](https://github.com/paceuniversity/cs491fall2025team6)
+* [Team 7 - ](https://github.com/paceuniversity/cs491fall2025team7)
+* [Team 8 - ](https://github.com/paceuniversity/cs491fall2025team8)
   
 ## Spring 2025 projects
 
