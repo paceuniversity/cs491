@@ -92,14 +92,14 @@ In this software engineering capstone course, students are developing web apps f
 
 ## Fall 2025 projects
 
-* [Team 1 - ](https://github.com/paceuniversity/cs491fall2025team1)
-* [Team 2 - ](https://github.com/paceuniversity/cs491fall2025team2)
-* [Team 3 - ](https://github.com/paceuniversity/cs491fall2025team3)
-* [Team 4 - ](https://github.com/paceuniversity/cs491fall2025team4)
-* [Team 5 - ](https://github.com/paceuniversity/cs491fall2025team5)
-* [Team 6 - ](https://github.com/paceuniversity/cs491fall2025team6)
-* [Team 7 - ](https://github.com/paceuniversity/cs491fall2025team7)
-* [Team 8 - ](https://github.com/paceuniversity/cs491fall2025team8)
+* [Team 1 - SafeBridge](https://github.com/paceuniversity/cs491fall2025team1)
+* [Team 2 - ReCraft](https://github.com/paceuniversity/cs491fall2025team2)
+* [Team 3 - GrubToGo](https://github.com/paceuniversity/cs491fall2025team3)
+* [Team 4 - roomwatt](https://github.com/paceuniversity/cs491fall2025team4)
+* [Team 5 - schedyoule](https://github.com/paceuniversity/cs491fall2025team5)
+* [Team 6 - ReHarvest](https://github.com/paceuniversity/cs491fall2025team6)
+* [Team 7 - Lodger](https://github.com/paceuniversity/cs491fall2025team7)
+* [Team 8 - SecondServe](https://github.com/paceuniversity/cs491fall2025team8)
   
 ## Spring 2025 projects
 
