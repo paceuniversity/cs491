@@ -61,13 +61,14 @@
 
 ## Poster
 
-* To be done in Google Presentation
+* To be done in Google Presentation or Canba.
 
 * The poster should contain:
 
 * Name of app
 * Team members
 * Logo
+* A slogan
 *	Screenshots
 *	QR code (if the app is deployed)
   
@@ -77,7 +78,7 @@
 
 ## Video
 
-A video to demo the complete app should be available.
+A video to demo the complete app should be available. It should be less than 3 minutes. It should show the app in use ina computer browser and on a phone.
 
 ## Code
 
