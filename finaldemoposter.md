@@ -5,7 +5,7 @@
 *	The presentations should be formal and professionals. Dress and act accordingly. 
 *	You need to consider that nobody knows your project. It is the time for you to present the whole project and to sell it. 
 *	Teams are responsible of testing everything BEFORE the presentations and be ready on time.
-*	Teams will be timed! 15 minutes maximum including a 2-minute demo (maximum). Demo can be live or a video. You need to talk on the video if you choose a video.
+*	Teams will be timed! 11 minutes maximum including a e demo (maximum). Demo can be live or a video. You need to talk on the video if you choose a video.
 *	Put the link of your presentation, video and poster in the Google Sheet provided. 
 *	Share all your presentation and poster with me as an editor such that I can give you feedback.
 *	Teams are evaluated with the CS 389 / CS 491 rubrics.
