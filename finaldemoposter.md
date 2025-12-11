@@ -5,7 +5,7 @@
 *	The presentations should be formal and professionals. Dress and act accordingly. 
 *	You need to consider that nobody knows your project. It is the time for you to present the whole project and to sell it. 
 *	Teams are responsible of testing everything BEFORE the presentations and be ready on time.
-*	Teams will be timed! 11 minutes maximum including a e demo (maximum). Demo can be live or a video. You need to talk on the video if you choose a video.
+*	Teams will be timed! 12 minutes maximum including a demo (maximum). Demo shoudl be live. A video is on GitHub and can be used as a backup plan.
 *	Put the link of your presentation, video and poster in the Google Sheet provided. 
 *	Share all your presentation and poster with me as an editor such that I can give you feedback.
 *	Teams are evaluated with the CS 389 / CS 491 rubrics.
@@ -15,8 +15,8 @@
 
 ## Presentation Template
 
-* 15 minutes including the live demo 
-* To be done in Google Presentation
+* 12 minutes including the live demo 
+* To be done in Google Presentation (or similar_
 * The slides below should be there. You can be creative!
 
 ## Slides
@@ -37,7 +37,7 @@
   * Other stats that you think are important
   * [Only talk about 1-2 important metrics during the presentation]
 * Learning Experience (What did you learn? What did you like? What did you dislike? How does this experience transfer to your professional life?)
-* Live demo (of the software) (2 minutes) [YouTube video as a backup]
+* Live demo (of the software) (around 2 minutes) [YouTube video as a backup]
 
 ## Recommendations
 
@@ -54,6 +54,7 @@
 *	No bad words
 *	Be professional!
 *	Be prepared!
+*	Rehearse
 
 ## Sample presentation
 
@@ -61,16 +62,16 @@
 
 ## Poster
 
-* To be done in Google Presentation or Canba.
+* To be done in Google Presentation or Cavba.
 
 * The poster should contain:
 
-* Name of app
-* Team members
-* Logo
-* A slogan
-*	Screenshots
-*	QR code (if the app is deployed)
+  * Name of app
+  * Team members
+  * Logo
+  * A slogan
+  *	Screenshots
+  *	QR code (if the app is deployed)
   
 ## Sample poster
 
