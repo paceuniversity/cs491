@@ -58,7 +58,7 @@
 
 ## Sample presentation
 
-* [https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e8ca88a2-135a-443a-8baf-b24f00d79eeb](Sample presentation)
+* [https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e8ca88a2-135a-443a-8baf-b24f00d79eeb] (Sample presentation)
 
 ## Poster
 
@@ -75,7 +75,7 @@
   
 ## Sample poster
 
-* [https://drive.google.com/file/d/1_wRwwORTi7GTRaJIRL5hPuR2IbdcioS9/view](Sample poster)
+* [https://drive.google.com/file/d/1_wRwwORTi7GTRaJIRL5hPuR2IbdcioS9/view] (Sample poster)
 
 ## Video
 
