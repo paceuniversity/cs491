@@ -92,16 +92,14 @@ In this software engineering capstone course, students are developing web apps f
 
 ## Spring 2026 projects
 
-* [Team 1 - ](https://github.com/paceuniversity/cs491spring26team1)
-* [Team 2 - ](https://github.com/paceuniversity/cs491spring26team2)
-* [Team 3 - ](https://github.com/paceuniversity/cs491spring26team3)
-* [Team 4 - ](https://github.com/paceuniversity/cs491spring26team4)
-* [Team 5 - ](https://github.com/paceuniversity/cs491spring26team5)
-* [Team 6 - ](https://github.com/paceuniversity/cs491spring26team6)
-* [Team 7 - ](https://github.com/paceuniversity/cs491spring26team7)
-* [Team 8 - ](https://github.com/paceuniversity/cs491spring26team8)
-* [Team 9 - ](https://github.com/paceuniversity/cs491spring26team9)
-* [Team 10 - ](https://github.com/paceuniversity/cs491spring26team10)
+* [Team 1 - CoGo](https://github.com/paceuniversity/cs491spring26team1)
+* [Team 2 - SkillSync](https://github.com/paceuniversity/cs491spring26team2)
+* [Team 3 - StudyCafe](https://github.com/paceuniversity/cs491spring26team3)
+* [Team 4 - Well Track](https://github.com/paceuniversity/cs491spring26team4)
+* [Team 5 - ArtBook](https://github.com/paceuniversity/cs491spring26team5)
+* [Team 6 - Card Counter](https://github.com/paceuniversity/cs491spring26team6)
+* [Team 7 - BridgePort](https://github.com/paceuniversity/cs491spring26team7)
+* [Team 8 - TrustHire](https://github.com/paceuniversity/cs491spring26team8)
 
 ## Fall 2025 projects
 
