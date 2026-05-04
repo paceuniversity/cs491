@@ -2,27 +2,27 @@
 
 ## Generalities
 
-*	The presentations should be formal and professionals. Dress and act accordingly. 
+*	The presentations should be formal and professional. Dress and act accordingly. 
 *	You need to consider that nobody knows your project. It is the time for you to present the whole project and to sell it. 
 *	Teams are responsible of testing everything BEFORE the presentations and be ready on time.
-*	Teams will be timed! 12 minutes maximum including a demo (maximum). Demo shoudl be live. A video is on GitHub and can be used as a backup plan.
+*	Teams will be timed! 11 minutes maximum including a demo. Demo shoudl be live. A video is on GitHub and can be used as a backup plan.
 *	Put the link of your presentation, video and poster in the Google Sheet provided. 
 *	Share all your presentation and poster with me as an editor such that I can give you feedback.
-*	Teams are evaluated with the CS 389 / CS 491 rubrics.
+*	Teams are evaluated with the CS 491 rubrics.
 *	If you do not use the right terminology, your team will get one letter grade less.
 *	Grades are based on individual work throughout the project.
 *	Order of the presentations is posted. [no change allowed]
 
 ## Presentation Template
 
-* 12 minutes including the live demo 
-* To be done in Google Presentation (or similar_
+* 11 minutes including the live demo 
+* To be done in Google Presentation (or similar)
 * The slides below should be there. You can be creative!
 
 ## Slides
 
-* Title: Name of the app and team (with pictures) / GitHub link. If you deployed the app, put the link to test the app.
-* Motivation (Why this app? Problem targeted? Market Analysis? Potential? Story Telling…)
+* Title: Name of the app and team / GitHub link. If you deployed the app, put the link to test the app.
+* Motivation (Why this app? Problem targeted? Market Analysis? Potential? Story Telling, Numbers…)
 * Target Users (Who is this app for? What is the environment of the users? Persona(s)?)
 * Main features of the app (Main US) (with corresponding screenshots)
 * Process (Description of the process followed? From the ideation phase to the delivery phase? What worked? What didn’t work? What could be improved? What did you learn about agile and scrum? How does the process you follow permits to improve the quality of the product you delivered? Would it have been possible to achieve what you achieved without process?). You may use a timeline.
@@ -55,6 +55,7 @@
 *	Be professional!
 *	Be prepared!
 *	Rehearse
+*	Stay in the allocated time!
 
 ## Sample presentation
 
