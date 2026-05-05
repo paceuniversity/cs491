@@ -1,13 +1,12 @@
-# Welcome 
-# CS 389/491 Software Engineering
-# Fall 2021 to Fall 2025
+# CS 389/491 Software Engineering at Pace University (Fall 2021 to Fall 2025)
 
-## CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023
-## CS 491 Spring 2024 / Fall 2024 / Spring 2025 / Fall 2025
+### CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023 & CS 491 Spring 2024 / Fall 2024 / Spring 2025 / Fall 2025
 
-In this software engineering capstone course, students are developing web apps following Scrum and practices of Extreme Programming. They also use Git/GitHub with branches, pull requests and reviews. All projects use a Firebase backend database and integrate an AI component.
+#### Dr. Scharff
 
-## Theme: SDG
+In the software engineering capstone course, students are developing web apps following Scrum and practices of Extreme Programming. They also use Git/GitHub with branches, pull requests and reviews. Projects use a Firebase backend database and integrate an AI component.
+
+## Theme: Sustainable Development Goals (SDG)
 
 ![sdg](https://github.com/paceuniversity/cs389fall2021/blob/main/sdg.png)
  
@@ -49,14 +48,14 @@ In this software engineering capstone course, students are developing web apps f
   * [Android](https://developer.android.com/)
   * [Google Codelabs](https://codelabs.developers.google.com/)
 
-## Templates
+## Software Templates
 
-***Idea proposal***
+***Idea Proposal***
 * [Slides on brainstorming](https://docs.google.com/presentation/d/1nmpJi1l5OkvKkkLAnJQxQDr0D-W-eULXL6HMvA8CM3Q/edit#slide=id.p)
 * [Idea proposal](https://docs.google.com/document/d/1elyxLL2kO3cu2EkfldQDGuYJVIcBX8_a/edit)
 
-***Documentation in README.md***
-* [Wiki skeleton -> README.md skeleton](https://github.com/paceuniversity/cs3892017/wiki/Team-Wiki-Skeleton)
+***README.md for Documentation***
+* [README.md skeleton](https://github.com/paceuniversity/cs3892017/wiki/Team-Wiki-Skeleton)
 
 ***Requirements***
 * [Backlog template/sample](https://docs.google.com/spreadsheets/d/1MyKivK6PZ1WnFGbhxCuuVY6fNfTHdzvYbMDZMuMH5GY/edit?usp=sharing)
@@ -73,7 +72,7 @@ In this software engineering capstone course, students are developing web apps f
 * [Scrum template](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/scrum.md)
 * [Demo & retrospective template](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/demoretro.md)
 
-***Presentations and posters***
+***Final Presentations and Posters***
 * [Presentation outline and Poster - **2026**](https://github.com/paceuniversity/cs389fall2021spring2022/blob/main/finaldemoposter.md)
 * [Presentation outline and Poster - before 2019](http://csis.pace.edu/~scharff/cs3892018/presentationoutline2108.docx)
 * [Reflection on the software process](http://csis.pace.edu/~scharff/cs3892018/softwarereflection2018.docx)
@@ -185,10 +184,16 @@ In this software engineering capstone course, students are developing web apps f
 * [Team 7](https://github.com/paceuniversity/cs389f2021team7) - Carbon Footprint
 * [Team 8](https://github.com/paceuniversity/cs389f2021team8) - My Teacher
 * [Team 9](https://github.com/paceuniversity/cs389f2021team9) - Pace Map v1.0
-  
+
 ## References
 
 * [Ball Point Game](https://scrumology.com/from-the-archives-the-ball-point-game/)
 * [XP Game](http://www.agilebelgium.be/xpgame/)
 * [Scrum Primer](http://www.scrumprimer.org/)
 * [Pair Programming](https://collaboration.csc.ncsu.edu/laurie/Papers/Kindergarten.PDF)
+
+## Publications
+
+I have published extensively on global software engineering and agile software development. See [Google Scholar](https://scholar.google.com/citations?user=KkxO7ZIAAAAJ&hl=en)
+
+
