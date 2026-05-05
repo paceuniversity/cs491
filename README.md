@@ -50,7 +50,7 @@ In the software engineering capstone course, students are developing web apps fo
   * [Android](https://developer.android.com/)
   * [Google Codelabs](https://codelabs.developers.google.com/)
 
-## Software Templates
+## Software Engineering Templates
 
 ***Idea Proposal***
 * [Slides on brainstorming](https://docs.google.com/presentation/d/1nmpJi1l5OkvKkkLAnJQxQDr0D-W-eULXL6HMvA8CM3Q/edit#slide=id.p)
