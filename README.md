@@ -2,11 +2,13 @@
 
 ### CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023 & CS 491 Spring 2024 / Fall 2024 / Spring 2025 / Fall 2025
 
-#### Dr. Scharff
+#### Dr. Scharff, Professor of Computer Science
+
+## Software Engineering Capstone Course
 
 In the software engineering capstone course, students are developing web apps following Scrum and practices of Extreme Programming. They also use Git/GitHub with branches, pull requests and reviews. Projects use a Firebase backend database and integrate an AI component.
 
-## Theme: Sustainable Development Goals (SDG)
+## Theme of the Project: Sustainable Development Goals (SDG)
 
 ![sdg](https://github.com/paceuniversity/cs389fall2021/blob/main/sdg.png)
  
