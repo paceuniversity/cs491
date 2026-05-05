@@ -33,7 +33,7 @@
   * GitHub commits and statistics during the project (screenshot/s).
   * Stats of communications (emails, chats, face-to-face meetings, SMS, Facebook, Group chat, Slack / Discord stats, Discord etc.) What was the main communication channel? Highlight it! Maybe you can access Slack / Discord stats.
   *	Nb of User Stories (total, per sprint, planned and implemented, US nonfunctional and functional) (That may have been done before already!)
-  * Number of classes and # lines of Java code
+  * Number of classes and # lines of JavaScript code
   * Some infos on the contributions of each of the team members including the number of hours worked.
   * Other stats that you think are important
   * [Only talk about 1-2 important metrics during the presentation. We will read the others!]
