@@ -93,13 +93,13 @@ In the software engineering capstone course, students are developing web apps fo
 
 ## Fall 2026 projects
 
-* [PaceLink](https://github.com/paceuniversity/cs491fall26team1)
-* [Adelante](https://github.com/paceuniversity/cs491fall26team2)
-* [Porchlight](https://github.com/paceuniversity/cs491fall26team3)
-* [Pantrypal](https://github.com/paceuniversity/cs491fall26team5)
-* [Medrelay](https://github.com/paceuniversity/cs491fall26team6)
-* [RePlate](https://github.com/paceuniversity/cs491fall26team7)
-* [CampusCycle](https://github.com/paceuniversity/cs491fall26team8)
+* [Team 1 - PaceLink](https://github.com/paceuniversity/cs491fall26team1)
+* [Team 2 - Adelante](https://github.com/paceuniversity/cs491fall26team2)
+* [Team 3 - Porchlight](https://github.com/paceuniversity/cs491fall26team3)
+* [Team 5 - Pantrypal](https://github.com/paceuniversity/cs491fall26team5)
+* [Team 6 - Medrelay](https://github.com/paceuniversity/cs491fall26team6)
+* [Team 7 - RePlate](https://github.com/paceuniversity/cs491fall26team7)
+* [Team 8 - CampusCycle](https://github.com/paceuniversity/cs491fall26team8)
 
 ## Spring 2026 projects
 
