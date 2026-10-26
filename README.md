@@ -1,4 +1,6 @@
-# CS 389/491 Software Engineering at Pace University (Fall 2021 to Fall 2026)
+# CS 389/491 Software Engineering Capstone Course 
+
+## Pace University (Fall 2021 to Fall 2026)
 
 ### CS389 Fall 2021 / Spring 2022 / Fall 2022 / Spring 2023 / Fall 2023 & CS 491 Spring 2024 / Fall 2024 / Spring 2025 / Fall 2025 / Spring 2026 / Fall 2026
 
