@@ -206,6 +206,6 @@ In the software engineering capstone course, students are developing web apps fo
 
 ## Publications
 
-I have published extensively on global software engineering and agile software development. See [Google Scholar](https://scholar.google.com/citations?user=KkxO7ZIAAAAJ&hl=en)
+Dr. Scharff has published extensively on global software engineering and agile software development. See [Google Scholar](https://scholar.google.com/citations?user=KkxO7ZIAAAAJ&hl=en)
 
 
