@@ -91,6 +91,16 @@ In the software engineering capstone course, students are developing web apps fo
 * [2012](http://atlantis.seidenberg.pace.edu/wiki/gsd2012) (Video of [Recycletron](http://youtu.be/j7mAvdM-ph0))
 * [2011](http://atlantis.seidenberg.pace.edu/wiki/gsd2011)
 
+## Fall 2026 projects
+
+* [PaceLink](https://github.com/paceuniversity/cs491fall26team1)
+* [Adelante](https://github.com/paceuniversity/cs491fall26team2)
+* [Porchlight](https://github.com/paceuniversity/cs491fall26team3)
+* [Pantrypal](https://github.com/paceuniversity/cs491fall26team5)
+* [Medrelay](https://github.com/paceuniversity/cs491fall26team6)
+* [RePlate](https://github.com/paceuniversity/cs491fall26team7)
+* [CampusCycle](https://github.com/paceuniversity/cs491fall26team8)
+
 ## Spring 2026 projects
 
 * [Team 1 - CoGo](https://github.com/paceuniversity/cs491spring26team1)
